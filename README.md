@@ -13,7 +13,7 @@
 
 ## Setting Up
 ### 1. Clone/Download the Repository
-
+`$ git clone https://github.com/harshit0verma/ETH_DOMAIN.git`
 
 ### 2. Install Dependencies:
 `$ npm install`
