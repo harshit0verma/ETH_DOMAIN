@@ -1,4 +1,4 @@
-# ETH Daddy 
+# ETH Domain
 
 ## Technology Stack & Tools
 
@@ -13,6 +13,7 @@
 
 ## Setting Up
 ### 1. Clone/Download the Repository
+
 
 ### 2. Install Dependencies:
 `$ npm install`
@@ -29,3 +30,9 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+## TO use the Frontend run command 2,4,5,7 => and interact with the frontend
+
+### Wallet Should be connected to hardhat node and use an imported wallet
+#### Reset the account after use 
+- [Tutorial](https://www.youtube.com/watch?v=wDueg2_aOTA)
